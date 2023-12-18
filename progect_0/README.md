@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта]()
-[2. Какой кейс решаем?]()
-[3. Краткая информаци о данных]()
-[4. Этапы работы над проектом]()
-[5. Результат]()
-[6. Выводы]()
+[1. Описание проекта](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Какой-кейс-решаем)
+[3. Краткая информаци о данных](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Результаты)
+[6. Выводы](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Выводы)
 
 ### Описание проекта
 Угадать загаданное число за минимальное количество попыток
@@ -31,15 +31,19 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up [к оглавлению]()
+:arrow_up [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Оглавление)
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up [к оглавлению]()
+:arrow_up [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Оглавление)
 
-### Результаты:
+### Результаты
 ....
 
-:arrow_up [к оглавлению]()
+:arrow_up [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Оглавление)
 
+### Выводы
+....
+
+:arrow_up [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Оглавление)
