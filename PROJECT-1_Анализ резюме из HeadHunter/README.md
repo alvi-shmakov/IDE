@@ -2,17 +2,17 @@
 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Какой-кейс-решаем)  
-[3. Краткая информаци о данных](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Результаты)  
-[6. Выводы](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Выводы)
+[1. Описание проекта](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Какой-кейс-решаем)  
+[3. Краткая информаци о данных](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Результаты)  
+[6. Выводы](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Выводы)
 
 ### Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Оглавление)
 
 ### Какой кейс решаем
 Необходимо преобразовать, исследовать и очистить предложенный датасет.
@@ -43,7 +43,7 @@
 **Что практикуем**  
 Учимся преобразовать, исследовать и очищать массивы данных.
 
-:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Оглавление)
 
 ### Краткая информация о данных
 Имеется база резюме, выгруженная с сайта поиска вакансий hh.ru и информация о кррсах валют с 29.12.2017 по 05.12.2019.  
@@ -51,7 +51,7 @@
 [Информация о вакансиях с HeadHunter](https://drive.google.com/file/d/1T7BZDj7DdO6Dn7Tf2mlVhK3UtWUqUDUU/view?usp=drive_link)  
 [Информация о курсах валют](https://drive.google.com/file/d/1g8jEH52uigTTDL_0dwqMM7MU2xy1-tlW/view?usp=sharing)
 
-:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Оглавление)
 
 ### Этапы работы над проектом
 - базовый анализ структуры данных
@@ -59,7 +59,7 @@
 - разведывательный анализ
 - очистка данных
 
-:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Оглавление)
 
 ### Результаты
 - получен преобразованный и очищенный датасет
@@ -67,10 +67,10 @@
 - проведена визуализация данных
 - сделаны выводы о характере закономерностей
 
-:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Оглавление)
 
 ### Выводы
 Очищенный массив данных сохранен в DataFrame "hh_cleaned".  
 Выводы представлены под программным кодом и графиками.
 
-:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/progect_0#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/alvi-shmakov/IDE/tree/main/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter#Оглавление)
